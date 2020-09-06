@@ -16,7 +16,7 @@ rotate.o : src/rotate.c
 parity.o : src/parity.c
 	gcc -c src/parity.c -Wall
 
-.Phony : clean
+.PHONY : clean
 
 clean :
 	rm bitwisemenu major1.o clz.o endian.o rotate.o parity.o
