@@ -1,4 +1,9 @@
 # Major Assignment 1
+To run the program:
+```
+make
+./bitwisemenu
+```
 # Team Members
 - Brandon Dumas
 - Richard Lin
