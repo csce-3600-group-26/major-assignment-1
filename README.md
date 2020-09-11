@@ -9,3 +9,5 @@
 - Endian Swap: Ha Nguyen
 - Rotate-right: Richard Lin
 - Parity: Jasmine Wicker
+# Known Bugs or Problems
+none
