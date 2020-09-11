@@ -1,5 +1,9 @@
 # Major Assignment 1
-Richard Lin
+# Team Members
+- Brandon Dumas
+- Richard Lin
+- Ha Nguyen
+- Jasmine Wicker
 # Organization of the Project
 - Count Leading Zeroes: Brandon Dumas
 - Endian Swap: Ha Nguyen
