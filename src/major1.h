@@ -1,5 +1,6 @@
 #ifndef MAJOR_ASSIGNMENT_1_MAJOR1_H
 #define MAJOR_ASSIGNMENT_1_MAJOR1_H
+#include "endian.c"
 
 unsigned long clz(unsigned long input);
 
