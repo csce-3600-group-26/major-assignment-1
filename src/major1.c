@@ -60,7 +60,7 @@ int main()
         switch (menu_option[0])
         {
             case '1':
-                printf("The number of leading zeroes in %lu is %lu\n", integer, clz(integer));
+                printf("The number of leading zeroes in %lu is %d\n", integer, clz(integer));
                 break;
             case '2':
                 printf("Endian swap of %lu gives %lu\n", integer, endian(integer));
