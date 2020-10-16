@@ -1,7 +1,7 @@
 #ifndef MAJOR_ASSIGNMENT_1_MAJOR1_H
 #define MAJOR_ASSIGNMENT_1_MAJOR1_H
 
-unsigned long clz(unsigned long input);
+int clz(unsigned long input);
 
 unsigned long endian(unsigned long input);
 
